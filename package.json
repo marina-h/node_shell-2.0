@@ -1,0 +1,22 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marina-h/node_shell-2.0.git"
+  },
+  "author": "Marina Hoashi and Sara Kladky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marina-h/node_shell-2.0/issues"
+  },
+  "homepage": "https://github.com/marina-h/node_shell-2.0#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
